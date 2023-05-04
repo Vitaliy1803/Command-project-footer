@@ -1,0 +1,25 @@
+.container {}
+
+.link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer {
+    background-color: #1E2827;
+    color: #FFFFFF;
+}
+
+.footer-rights {
+    color: #C6CDD1;
+}
+
+.footer-rights-link {
+    color: inherit;
+}
